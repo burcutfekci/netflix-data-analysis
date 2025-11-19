@@ -37,10 +37,10 @@ It demonstrates beginner-to-intermediate Python skills through real-world datase
 ## 📁 Project Structure (Planned)
 netflix-data-analysis/
 │
-├── data/  # dataset files (CSV)
-├── notebooks/  # Jupyter notebooks
-├── scripts/  # python scripts
-└── README.md  # project overview
+├── data/ # dataset files (CSV)
+├── notebooks/ # Jupyter notebooks
+├── scripts/ # python scripts
+└── README.md # project overview
 
 ---
 
